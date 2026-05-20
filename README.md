@@ -27,9 +27,17 @@ This commands includes
 <BR>
 
 ## Output
+netstat
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/fa0e8c66-0f49-4a8b-aea1-bf43569309d6" />
+ping
+getmac
+tracert
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/c19059d9-2bc1-47fe-acc9-5ec6e85a51dd" />
+nslookup
+hostname
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/635fd327-bf19-4056-85e5-0b8341e18821" />
+arp
+systeminfo
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/0e8f2225-53e8-4367-b59b-b7711d9cd7e0" />
 
 
